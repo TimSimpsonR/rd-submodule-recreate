@@ -1,0 +1,3 @@
+[submodule "reddwarf"]
+	path = reddwarf
+	url = https://github.com/stackforge/reddwarf.git
